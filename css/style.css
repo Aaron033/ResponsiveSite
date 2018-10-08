@@ -22,5 +22,20 @@ nav ul {
 
 nav li {
     display: inline-block; 
+    margin: 1em; 
+}
+
+nav a {
+    font-weight: 900; 
+    text-decoration: none; 
+    text-transform: uppercase; 
+    font-size: .8rem; 
+    padding: .5em; 
+}
+
+/*home-hero */
+
+.home-hero{
+    background-image: url(); 
     
 }
