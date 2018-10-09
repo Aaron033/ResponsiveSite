@@ -7,6 +7,10 @@ body{
     text-align: center; 
     
 }
+img {
+    max-width: 100%; 
+    height: auto; 
+}
 
 header {
      position :absolute;
@@ -36,6 +40,10 @@ nav a {
     color: #fff; 
 }
 
+nav a:hover,
+nav a:focus{
+    color: #DDD; 
+}
 /*home-hero */
 
 .home-hero{
