@@ -9,7 +9,9 @@ body{
 }
 
 header {
-    /* position :absolute*/
+     position :absolute;
+    left: 0; 
+    right: 0; 
     margin: 1em; 
 }
 
@@ -31,11 +33,13 @@ nav a {
     text-transform: uppercase; 
     font-size: .8rem; 
     padding: .5em; 
+    color: #fff; 
 }
 
 /*home-hero */
 
 .home-hero{
-    background-image: url(); 
+    background-image: url(../images/background.jpg); 
+    padding:10em 0; 
     
 }
