@@ -18,6 +18,15 @@ img {
 }
 
 /*Typography */
+.title{
+    font-size: 2.5rem;
+}
+
+.title span{
+    font-weight: 300;
+    display: block;
+    font-size: .9em;
+}
 
 header {
      position :absolute;
@@ -56,5 +65,5 @@ nav a:focus{
 .home-hero{
     background-image: url(../images/background.jpg); 
     padding:10em 0; 
-    
+    color: #fff;
 }
