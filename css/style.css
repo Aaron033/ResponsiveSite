@@ -94,8 +94,11 @@ nav a:focus{
 }
 
 @media (min-width: 60rem){
-    .title {
-        font-size: ;
+    .logo{
+        float: left;
+    }
+    nav{
+        float: right; 
     }
 }
 
