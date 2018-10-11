@@ -105,7 +105,12 @@ nav a:focus{
 /*home-hero */
 
 .home-hero{
-    background-image: url(../images/background.jpg); 
+    background-image: url(../images/NewBackground.jpg); 
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    background-size: cover; 
+    background-position: center; 
     padding:10em 0; 
     color: #fff;
 }
