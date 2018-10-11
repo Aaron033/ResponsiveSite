@@ -29,6 +29,14 @@ img {
     font-size: .9em;
 }
 
+
+@media (min-width: 50rem){
+    .title{
+        font-style: 3.7rem;
+    }    
+}
+/* buttons */
+
 .button{
     display: inline-block; 
     font-size: 1.15rem; 
@@ -74,9 +82,9 @@ nav li {
 nav a {
     font-weight: 900; 
     text-decoration: none; 
+    padding: .5em; 
     text-transform: uppercase; 
     font-size: .8rem; 
-    padding: .5em; 
     color: #fff; 
 }
 
@@ -84,6 +92,13 @@ nav a:hover,
 nav a:focus{
     color: #DDD; 
 }
+
+@media (min-width: 60rem){
+    .title {
+        font-size: ;
+    }
+}
+
 /*home-hero */
 
 .home-hero{
