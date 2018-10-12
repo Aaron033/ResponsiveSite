@@ -59,6 +59,14 @@ img {
     color: #232323;
 }
 
+
+@media (min-width: 60rem){
+    .buttton{
+        font-size: 1.5rem;
+    }
+    
+}
+
 /*  Header */
 header {
      position :absolute;
