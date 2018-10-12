@@ -118,6 +118,6 @@ nav a:focus{
 @media(min-width: 60rem){
     .home-hero{
         height:100vh; 
-        padding-top: 50vh;
+        padding-top: 35vh;
     }
 }
