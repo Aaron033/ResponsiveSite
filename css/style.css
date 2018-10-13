@@ -142,8 +142,16 @@ nav a:focus{
 
 .home-about-textbox{
     border-color: #232323;
-    padding: 3em;
+    padding: 4em;
     width: 100vw; 
-    margin-left: -2.5%; 
+    margin-left: -2.5%;
+    outline: 2px solid #00ff6c; 
+    outline-offset: -2.5em; 
+    color: #00ff6c; 
     
+    
+}
+
+.home-about-textbox {
+    color: #00ff6c; 
 }
