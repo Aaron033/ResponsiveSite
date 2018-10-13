@@ -141,5 +141,9 @@ nav a:focus{
 /*hero-home */
 
 .home-about-textbox{
+    border-color: #232323;
+    padding: 3em;
+    width: 100vw; 
+    margin-left: -2.5%; 
     
 }
