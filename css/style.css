@@ -150,11 +150,15 @@ nav a:focus{
     margin-left: -2.5%;
     outline: 2px solid #00ff6c; 
     outline-offset: -2.5em; 
-    color: #00ff6c; 
+    color: #FFF;
+    position: relative;
     
     
 }
 
-.home-about-textbox {
+.home-about-textbox h1 {
     color: #00ff6c; 
+    position: absolute; 
+    top: .3em; 
+    background: black; 
 }
