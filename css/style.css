@@ -159,6 +159,9 @@ nav a:focus{
 .home-about-textbox h1 {
     color: #00ff6c; 
     position: absolute; 
-    top: .3em; 
+    left: 50%; 
+    transform: translateX(-50%); 
     background: black; 
+    padding: 0 .25em; 
+    
 }
