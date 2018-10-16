@@ -59,14 +59,14 @@ h1{
 }
 
 .button-accent{
-    color: #00ff6c; 
+    color: #1E90FF; 
     border-color: #00ff6c;
     
 }
 
 .button-accent:hover, 
 .button-accent:focus {
-    background: #00ff6c; 
+    background: #1E90FF; 
     color: black;
 }
 
@@ -148,7 +148,7 @@ nav a:focus{
     padding: 4em;
     width: 100vw; 
     margin-left: -2.5%;
-    outline: 2px solid #00ff6c; 
+    outline: 2px solid #1E90FF; 
     outline-offset: -2.5em; 
     color: #FFF;
     position: relative;
@@ -157,7 +157,7 @@ nav a:focus{
 }
 
 .home-about-textbox h1 {
-    color: #00ff6c; 
+    color: #1E90FF; 
     position: absolute; 
     left: 50%; 
     transform: translateX(-50%); 
