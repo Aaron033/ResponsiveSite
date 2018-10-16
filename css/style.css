@@ -161,8 +161,18 @@ nav a:focus{
     position: absolute; 
     left: 50%; 
     transform: translateX(-50%); 
-    top: .7em; 
+    top: .75em; 
     background: black; 
     padding: 0 .25em; 
     
+}
+
+@media (min-width: 25rem){
+    h1 {
+        font-size: 2rem;
+    }
+    
+    .home-about-textbox h1 {
+        top: .65em;
+    }
 }
