@@ -24,7 +24,7 @@ img {
 
 h1{
     font-weight: 300;
-    font-size: 2.5rem;
+    font-size: 1.7rem;
     margin-top: 0;
 }
 .title{
@@ -161,6 +161,7 @@ nav a:focus{
     position: absolute; 
     left: 50%; 
     transform: translateX(-50%); 
+    top: .7em; 
     background: black; 
     padding: 0 .25em; 
     
