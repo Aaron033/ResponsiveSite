@@ -144,7 +144,7 @@ nav a:focus{
 /*hero-home */
 
 .home-about-textbox{
-    border-color: #232323;
+    border-color: rgb(35, 35, 35);
     padding: 4em;
     width: 100vw; 
     margin-left: -2.5%;
@@ -174,5 +174,19 @@ nav a:focus{
     
     .home-about-textbox h1 {
         top: .65em;
+        padding: 0 .325em; 
     }
 }
+
+
+@media (min-width: 60rem){
+    h1 {
+        font-size: 2.5rem;
+    }
+    
+    .home-about-textbox h1 {
+        top: .3em;
+        padding: 0 .6em; 
+    }
+}
+
