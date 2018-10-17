@@ -186,16 +186,21 @@ nav a:focus{
     
     .home-about{
         background-image: url(../images/sunset.jpg);
+        background-repeat: no-repeat; 
+        padding: -2.5%;
     }
     
     .home-about-textbox {
-        width: 100vw; 
+        width: 60%; 
         margin-left: -2.5%;
+        text-align: left;
     }
     
     .home-about-textbox h1 {
         top: .3em;
-        padding: 0 .6em; 
+        left: 4rem; 
+        transform: translateX(0)
+        
     }
     
 }
