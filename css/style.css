@@ -168,6 +168,11 @@ nav a:focus{
     
 }
 
+.portfolio{
+    display: grid; 
+    grid-template-columns: 16.667 16.667 16.667 16.667 16.667 16.667 ;
+}
+
 @media (min-width: 25rem){
     h1 {
         font-size: 2rem;
