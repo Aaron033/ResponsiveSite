@@ -170,12 +170,11 @@ nav a:focus{
 
 .port-item{
     display: grid; 
-    grid-template-columns: 16.667 16.667 16.667 16.667 16.667 16.667 ;
-width: 800px; 
-    height: 800px; 
+    grid-template-columns: 16.667% 16.667% 16.667% 16.667% 16.667% 16.667% ;
 
-    padding: 10px;
-    margin-top: 10px;
+    
+
+   
 }
 
 @media (min-width: 25rem){
