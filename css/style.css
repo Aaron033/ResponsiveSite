@@ -113,6 +113,12 @@ nav a:focus{
     color: #DDD; 
 }
 
+p{
+    color: #000; 
+    font-weight: 700;
+}
+
+
 @media (min-width: 60rem){
     .logo{
         float: left;
